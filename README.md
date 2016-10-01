@@ -1,2 +1,2 @@
 # cpp_primer_review
-review for the cpp primer, fifth edition.
+This is a review for the cpp primer, fifth edition, for convenience of online purpose. 
